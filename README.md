@@ -7,6 +7,6 @@ add description here
 | Role  | Person |
 | ------------- | ------------- |
 | Driver  | [Tim Vollmer](https://github.com/tvol)  |
-| Approvers  | [Jonathan Tuttle](https://github.com/jtuttle)  |
-| Contributors | [Cable Green](https://github.com/cablegreen) |
+| Accountable  | [Jonathan Tuttle](https://github.com/jtuttle)  |
+| Consulted | [Cable Green](https://github.com/cablegreen) |
 | Informed | Add yourselves here |
