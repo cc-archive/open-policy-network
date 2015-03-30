@@ -13,5 +13,5 @@ It is the goal of the Open Policy Network to equip advocates to work with policy
 | ------------- | ------------- |
 | Driver  | [Tim Vollmer](https://github.com/tvol)  |
 | Accountable  | [Cable Green](https://github.com/cablegreen)  |
-| Consulted | Add yourselves here |
+| Consulted | [Cable Green](https://github.com/cablegreen) |
 | Informed | Add yourselves here |
