@@ -1,4 +1,4 @@
-# open-policy-network
+# Open Policy Network
 
 The Open Policy Network (http://openpolicynetwork.org/) is a project of Creative Commons and like-minded organizations and individuals working to support the creation, adoption, and implementation of policies that require that publicly funded resources are openly licensed resources. The idea and subsequent development of the network is the result of a direct need identified by our community. 
 
