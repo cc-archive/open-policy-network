@@ -6,6 +6,7 @@ Increasingly, governments around the world are sharing huge amounts of publicly 
 
 It is the goal of the Open Policy Network to equip advocates to work with policymakers across a variety of sector in order to realize the vision that publicly funded materials are openly licensed. The Open Policy Network launched in May 2014, and there are now over 40 organizational global members in the coalition. The Network has elected a steering committee, holds monthly planning conference calls, and shares information and policy expertise on a mailing list. The Network is currently in the process of securing funding in order to begin work on a set of priority initiatives, including a strategic planning process, development of key educational and policy resources, and further network building. 
 
+Also see [closed Issues](https://github.com/cc-archive/open-policy-network/issues?q=is%3Aissue+is%3Aclosed).
 
 ## Who's working on it at Creative Commons?
 
